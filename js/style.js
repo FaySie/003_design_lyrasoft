@@ -11,7 +11,7 @@ $(document).ready(function() {
 		},1000);
 
 		setTimeout(function() {
-			$('.rocket').css('transform','translate(300%, -70%)');
+			$('.rocket').css('transform','translate(500%, -70%)');
 			$('.rocket').css('transition','0.8s');
 			// $('.bg').fadeOut('slow');
 			// $('#content').fadeIn('slow');
